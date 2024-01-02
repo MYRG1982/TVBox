@@ -1,0 +1,144 @@
+﻿☆非移动网络☆
+
+国际｜频道,#genre#
+
+ABC TV HD,https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+
+Sky Nature HD,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+BBC Earth FHD,https://ov.ottera.tv/live/master.m3u8?channel=earth_et&checkedby:iptvcat.com
+
+日本·NHK国际频道(高清),https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+
+央视｜频道,#genre#
+CCTV1高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV6高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV14高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17高清,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV4K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+财富天下,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cftx/2500000/mnf.m3u8
+北京卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+北京纪实科教,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+北京卡酷少儿,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+
+CCTV164K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CGTN,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/ottcctvnews/1300000/mnf.m3u8
+
+CCTV5,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/d576df8c0b-0-0-2de19686e2172f351d6e90c142a0be07/index.m3u8
+CCTV5+,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
+CCTV7,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/4ba629f762-0-0-0a66b18805ff859ce68ab1137157079e/index.m3u8
+CCTV8,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
+CCTV9,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
+CCTV11,https://iptv.luas.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/646e868153-0-0-a53121a1df5b93a74d1980270e652878/index.m3u8
+
+
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+福建三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
+云南纪录片，http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+
+港台｜优选,#genre#
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+卫视｜频道,#genre#
+
+湖南卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+湖北卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+河南卫视高清  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+山东卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+山西卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+广东卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+广西卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+东方卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+东南卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+四川卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+天津卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+安徽卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+江苏卫视高清  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+江西卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+浙江卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+海南卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+海峡卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hxwshd4m/4000000/mnf.m3u8
+三沙卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/sswshd8m/8000000/mnf.m3u8
+深圳卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+贵州卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+辽宁卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+重庆卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+宁夏卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+陕西卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+甘肃卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+吉林卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+云南卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+青海卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+新疆卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+西藏卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xzws/2500000/mnf.m3u8
+延边卫视  ,
+厦门卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+兵团卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+康巴卫视  ,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/kbws/2500000/mnf.m3u8
+内蒙古卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/nmgws/1300000/mnf.m3u8
+黑龙江卫视,
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+
+湖南卫视  ,
+湖北卫视  ,
+河南卫视  ,
+河北卫视  ,
+山东卫视  ,
+山西卫视  ,
+广东卫视  ,
+广西卫视  ,
+东方卫视  ,
+东南卫视  ,
+四川卫视  ,
+天津卫视  ,
+安徽卫视  ,
+江苏卫视  ,
+江西卫视  ,
+江西卫视  ,
+浙江卫视  ,
+海南卫视  ,
+深圳卫视  ,
+贵州卫视  ,
+辽宁卫视  ,
+重庆卫视  ,
+宁夏卫视  ,
+陕西卫视  ,
+甘肃卫视  ,
+吉林卫视  ,
+吉林卫视  ,
+云南卫视  ,
+青海卫视  ,
+新疆卫视  ,
+西藏卫视  ,
+延边卫视  ,
+内蒙古卫视,
+黑龙江卫视,
+
+
+
+
+
+
+
+
+
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
